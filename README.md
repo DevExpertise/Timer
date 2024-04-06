@@ -1,2 +1,2 @@
 # Timer
-This is a alarm timer.
+This is an alarm timer.
